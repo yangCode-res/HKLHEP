@@ -1,2 +1,2 @@
 # HKLHEP
-This Code is a reproduction of the HKLHEP code for the paper. We will only publish some of the codes temporarily, and all the codes will be published when the paper is accepted
+This repository is a code reproduction of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
