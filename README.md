@@ -1,9 +1,8 @@
-# HKLHEP
-This repository is a code impletement of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
+
 # HKLHEP 
 
 <img src="./1701087679317.png" alt="1701087679317" style="zoom:33%;" />
-## 1.MIMIC task steps
+## 1.MIMIC-III task steps
 
 The first step, please
 
@@ -31,3 +30,5 @@ The fourth step is to run
 `train.py`.
 ```
 
+# HKLHEP
+This repository is a code impletement of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
