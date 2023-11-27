@@ -7,7 +7,8 @@ This repository is a code impletement of the paper HKLHEP.
 The first step, please
 
 ```
- python3 ./data/mimic3/encoded/k-means.py.
+ cd data/mimic3/encoded/
+ python3 k-means.py.
 ```
 
 The second step, 
@@ -27,7 +28,7 @@ The third step is to modify the parameters in
 The fourth step is to run 
 
 ```
-`python3 train.py`.
+python3 train.py.
 ```
 
 # HKLHEP
