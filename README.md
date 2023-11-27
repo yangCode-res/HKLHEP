@@ -1,8 +1,8 @@
 # HKLHEP
 This repository is a code impletement of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
 # HKLHEP 
-![Uploading 1701087679317.png…]()
 
+![1701087679317](./1701087679317.png)
 ## 1.MIMIC task steps
 
 The first step, please
