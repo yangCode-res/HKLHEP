@@ -1,2 +1,32 @@
 # HKLHEP
 This repository is a code impletement of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
+# HKLHEP 
+
+## 1.MIMIC task steps
+
+The first step, please
+
+```
+ run data/mimic3/encoded/k-means.py.
+```
+
+The second step, 
+
+```
+run run_preprocess.py.
+```
+
+The third step is to modify the parameters in 
+
+```
+`models/models2.py`
+```
+
+ based on the settings provided in the paper.
+
+The fourth step is to run 
+
+```
+`train.py`.
+```
+
