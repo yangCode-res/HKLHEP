@@ -2,7 +2,7 @@
 This repository is a code impletement of the paper HKLHEP. We are only releasing part of the code for now. Once the paper is accepted, we will release the full code.
 # HKLHEP 
 
-![1701087679317](./1701087679317.png)
+<img src="./1701087679317.png" alt="1701087679317" style="zoom:33%;" />
 ## 1.MIMIC task steps
 
 The first step, please
